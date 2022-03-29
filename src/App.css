@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.float-right {
+
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+
+  /* 
+  Extra small devices (phones, 576px and down) */
+@media only screen and (max-width: 576px) {
+    .navbar-collapse {
+      background: #171522;
+      position: absolute;
+      top: 68px;
+      z-index: 2;
+      padding: 20px;
+      width: 24.5rem;
+      margin-left: -40px;
+    }
+  } 
+  /* 
+  Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) 
+  { 
+
+    .navbar-collapse {
+      background: #171522;
+      position: absolute;
+      top: 68px;
+      z-index: 2;
+      padding: 20px;
+      width: 24.5rem;
+      margin-left: -40px;
+    }
+  } 
+
+/* Small devices (portrait tablets and large phones, 600px and up) 
+  */
+@media only screen and (max-width: 600px) { 
+  .navbar-collapse {
+    background: #171522;
+    position: absolute;
+    top: 68px;
+    z-index: 2;
+    padding: 20px;
+    width: 24.5rem;
+    margin-left: -40px;
+  }
+  .active {
+    color: #ab3691 !important;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+    margin-left: -17px;
+}
+.navbar-toggler{
+  color: #fff;
+  border: 1px solid #fff;
+  font-size: 20px !important;
+}
+.navbar-toggler:focus{
+  border: none !important;
+  outline: none !important;
+}
+.directory-menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(45vw, 1fr)) !important;
+  gap: 3em;
+}
+.p-tabview-nav-container {
+  /* position: revert !important; */
+}
+}
+
+.row{
+  margin: 0px !important
+}

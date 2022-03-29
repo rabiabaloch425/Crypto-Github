@@ -1,0 +1,66 @@
+.bg-footer {
+    background: #171522 !important;
+
+    /* position: absolute; */
+    /* bottom: 1px; */
+}
+
+.social-svg {
+    background: rgb(58, 52, 84);
+    color: rgb(255, 255, 255);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 46px;
+    margin-right: 10px;
+    cursor: pointer;
+    height: 46px;
+}
+
+.social-svg:hover {
+    background: linear-gradient(to left, rgb(251, 120, 68) 0%, rgb(233, 93, 218) 100%);
+}
+
+.hr-color {
+    color: rgb(124, 119, 144);
+}
+
+.nav12 {
+    color: rgb(124, 119, 144) !important;
+}
+
+.nav {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-link1 {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: rgb(124, 119, 144) !important;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.nav-link1:hover {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.cryptex-logo-footer {
+    width: 85%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}

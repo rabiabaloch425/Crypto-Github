@@ -1,0 +1,186 @@
+h1,
+h2 {
+    color: #fff;
+}
+
+p {
+    color: rgb(238, 238, 238);
+    font-family: "Firs Neue", Roboto, sans-serif;
+}
+
+.card_left_title {
+    font-family: "Firs Neue", Roboto, sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+
+.card {
+    position: relative;
+    padding: 20px;
+    background: rgb(34, 30, 50);
+    border-radius: 5px;
+    margin: 15px 0px;
+    color: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0 / 50%) 0px 5px 10px;
+    width: 100%;
+}
+
+input[type='radio'] {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 1px solid darkgray;
+    border-radius: 50%;
+    outline: none;
+    box-shadow: 0 0 5px 0px gray inset;
+}
+
+input[type='radio']:hover {
+    box-shadow: 0 0 5px 0px rgb(251, 120, 68) inset;
+}
+
+input[type='radio']:before {
+    content: '';
+    display: block;
+    width: 60%;
+    height: 60%;
+    margin: 20% auto;
+    border-radius: 50%;
+}
+
+input[type='radio']:checked:before {
+    background: rgb(251, 120, 68);
+}
+
+.bsc-img1 {
+    width: 60%;
+    border-radius: 10px;
+    margin: -3px -2px 1px 11px;
+}
+
+.img_round {
+    box-sizing: border-box;
+    display: block;
+    max-width: 100%;
+}
+
+.radio_p {
+    font-size: 18px;
+    margin: -4px 1px 0px 6px;
+    font-weight: 400;
+    font-family: "Firs Neue", Roboto, sans-serif;
+
+}
+
+.card-header {
+    box-shadow: none;
+    border: none;
+    background: none;
+}
+
+.bd_radio {
+
+    padding: 15px 10px;
+
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 5px;
+    opacity: 1;
+    cursor: pointer;
+
+
+}
+
+.bd_radio:hover {
+
+    padding: 15px 10px;
+
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 5px;
+    opacity: 1;
+    cursor: pointer;
+    background: rgb(67, 59, 98);
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: rgb(251, 120, 68);
+}
+
+
+.border-card {
+    margin-top: 10px;
+    color: rgb(153, 153, 153);
+    border: 1px dashed;
+    padding: 10px;
+}
+
+.coins_need {
+    color: #fff;
+    font-family: "Firs Neue", Roboto, sans-serif;
+}
+
+.m_10 {
+    margin: 10px;
+}
+
+.header_center {
+
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.h1_card {
+    margin-top: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Firs Neue", Roboto, sans-serif;
+}
+
+.p_grey {
+    color: rgb(153, 153, 153);
+}
+
+.not_allowd {
+    cursor: no-drop;
+}
+
+
+.bd_radio_no-drop {
+
+    padding: 15px 10px;
+
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 5px;
+    opacity: 1;
+    cursor: no-drop;
+
+
+}
+
+.bd_radio_no-drop:hover {
+
+    padding: 15px 10px;
+
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 5px;
+    opacity: 1;
+    cursor: no-drop;
+    background: rgb(52, 47, 71);
+}
+
+.width_radio {
+    width: 50px !important;
+}

@@ -1,0 +1,5 @@
+.directory-menu {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20vw, 1fr));
+    gap: 3em;
+}

@@ -1,0 +1,122 @@
+.bg-header {
+    background: #171522 !important;
+    height: 90px;
+}
+
+.cryptex-logo {
+    width: 91%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.active {
+    color: #ab3691 !important;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+
+
+}
+
+.active:hover {
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-size: 16px;
+}
+
+.nav-link:hover {
+    color: rgb(251, 120, 68) !important;
+    font-size: 16px;
+}
+
+.btn-wallet {
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    text-align: center;
+    font-weight: 500;
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+    transition: all 0.4s linear 0s;
+    white-space: nowrap;
+    text-decoration: none;
+    border: 1px solid rgb(251, 120, 68);
+    background-color: rgb(251, 120, 68);
+    width: auto;
+}
+
+.btn-wallet:hover {
+    cursor: pointer;
+    background-color: transparent;
+    color: rgb(251, 120, 68);
+}
+
+.bsccrypt {
+    padding: 5px 10px;
+    background: rgb(45, 40, 66);
+    font-size: 16px;
+    color: rgb(177, 181, 196);
+    display: flex;
+    border-radius: 4px;
+    margin-right: 12px;
+    -webkit-box-align: center;
+    align-items: center;
+    border: rgb(177, 181, 196);
+}
+
+.bsc-img {
+    width: 64%;
+    padding-right: 11px;
+}
+
+.mt-px-5 {
+    margin-top: 5px;
+}
+
+.justify-center {
+    justify-content: space-between;
+}
+
+.text-center {
+    text-align: center;
+    color: #fff;
+    font-family: "Firs Neue", Roboto, sans-serif;
+
+}
+
+.text-center1 {
+    text-align: center;
+    color: rgb(251, 120, 68);
+    font-family: "Firs Neue", Roboto, sans-serif;
+
+}
+
+.metabutton {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    text-align: left;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0px 10px;
+    background: #171522;
+}
+.RA-13-icon-cross{
+    background: #1A1726;
+    padding: 12px;
+    border-radius: 30px;
+    font-size: 16px;
+    margin: -25px 0px 0px -20px;
+    position: absolute;
+    color: #432764;
+    cursor: pointer;
+}
