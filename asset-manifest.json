@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rabiabaloch425/Crypto-Github/static/css/main.bf0a07fd.css",
+    "main.js": "/rabiabaloch425/Crypto-Github/static/js/main.930ec6e3.js",
+    "static/media/primeicons.svg": "/rabiabaloch425/Crypto-Github/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/metamasks.png": "/rabiabaloch425/Crypto-Github/static/media/metamasks.02e3ec2750d2107176f5.png",
+    "static/media/primeicons.eot": "/rabiabaloch425/Crypto-Github/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/rabiabaloch425/Crypto-Github/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/rabiabaloch425/Crypto-Github/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/wallet-connect.svg": "/rabiabaloch425/Crypto-Github/static/media/wallet-connect.304e327744ae5c9b1b62b58f50df6734.svg",
+    "static/media/hash.svg": "/rabiabaloch425/Crypto-Github/static/media/hash.4d2af45fe36a8a4924df11047663d9a8.svg",
+    "index.html": "/rabiabaloch425/Crypto-Github/index.html",
+    "static/media/question-symbol.svg": "/rabiabaloch425/Crypto-Github/static/media/question-symbol.ea7d48e660f650dca58b00ee72161b0d.svg",
+    "static/media/polygon.webp": "/rabiabaloch425/Crypto-Github/static/media/polygon.2c966210293bbd8c7490.webp",
+    "static/media/matic.webp": "/rabiabaloch425/Crypto-Github/static/media/matic.0f57e30d64df000586a5.webp",
+    "main.bf0a07fd.css.map": "/rabiabaloch425/Crypto-Github/static/css/main.bf0a07fd.css.map",
+    "main.930ec6e3.js.map": "/rabiabaloch425/Crypto-Github/static/js/main.930ec6e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf0a07fd.css",
+    "static/js/main.930ec6e3.js"
+  ]
+}
